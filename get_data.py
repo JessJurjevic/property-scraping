@@ -35,3 +35,4 @@ driver.close()
 df = pd.DataFrame(property_list)
 df.to_csv("properties.csv")
 
+#Jessica edit

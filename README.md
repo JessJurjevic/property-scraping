@@ -21,3 +21,5 @@ HOW TO USE:
 6.	Run the file “clean_data.py” to get two CSV files: one containing cleaned data, the other containing the top five localities where average price per square foot is highest.
 7.	To scrape data from any other site, open its HTML source, and make the necessary changes in the argument to the  find_element_by_xpath method, in "get_data.py".
 
+
+Jessica has just edited the read me file in property-scraping
